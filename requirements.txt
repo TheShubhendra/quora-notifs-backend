@@ -1,5 +1,5 @@
 uvicorn
 fastapi
 python-decouple
-pyquora
+git+https://github.com/TheShubhendra/pyquora
 gunicorn
